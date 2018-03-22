@@ -24,8 +24,8 @@ button {
   bottom: 10px;
   right: auto;
   left: auto;
-  height: 400px;
-  width: 250px;
+  height: 110px;
+  width: 50px;
 }
 #submit {
   display: flex;
@@ -61,7 +61,7 @@ justify-content: space-around;
   flex-basis: 50%;
 }
 #result{
-display: none;
+display: flex;
   top: 0;
   bottom: 0;
   right: auto;
